@@ -1,0 +1,15 @@
+# Eclipse'in kendi çalışma alanı ayarları (kişisel, büyük, GitHub'a gerekmez)
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+
+# Derlenmiş dosyalar (Eclipse her çalıştırmada yeniden üretir)
+bin/
+*.class
+
+# Diğer araçların klasörleri
+.claude/
+
+# Windows'un ürettiği dosyalar
+Thumbs.db
+desktop.ini
